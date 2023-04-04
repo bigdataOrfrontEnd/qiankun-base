@@ -9,6 +9,6 @@ export const menu = [
     name: "app-test",
     entry: "//localhost:20000",
     container: "#microSlot",
-    activeRule: "/#/app-test",
+    activeRule: "/app-test",
   },
 ];
